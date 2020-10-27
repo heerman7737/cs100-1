@@ -22,7 +22,7 @@
  > * What are the three design patterns you will be using. For each design pattern you must:
  >   * Explain in 3 - 5 sentences why you picked this pattern and what feature you will implement with it
  > * This description should be in enough detail that the TA/instructor can determine the complexity of the project and if it is sufficient for the team members to complete in the time allotted. 
-## Description
+
 **Motivation and Reason: In the current pandemic, it is hard and inconvenient to figure out what class you should take in order to graduate. That's the reason why we want to implement this project as a Course Planner**
 
 
@@ -48,6 +48,7 @@ Output:
 | ENGR 180 |        |          |
 
 **Design Pattern:**
+>
 Strategy: We will use strategy pattern to design Course class whether the instance of the object is optional or mandatory. If the Course is optional, we will use Optional Strategy object. This helps us reduce the work in handling database as well as sorting through major requirement
 >
 Composite: Using Composite Design Pattern, we will design the Major class to have Course class which will have different variables and instance.
