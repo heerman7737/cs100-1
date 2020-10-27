@@ -25,7 +25,18 @@
  > * What are the three design patterns you will be using. For each design pattern you must:
  >   * Explain in 3 - 5 sentences why you picked this pattern and what feature you will implement with it
  > * This description should be in enough detail that the TA/instructor can determine the complexity of the project and if it is sufficient for the team members to complete in the time allotted. 
-
+## Description
+Motivation and Reason: In the current pandemic, it is hard and inconvenient to figure out what class you should take in order to graduate. That's the reason why we want to implement this project as a Course Planner
+Language use : C++
+Tools: Github, Google Test Frame, MongoDB
+Input: Grade Level, Major, Quarter. Ex: Sophomore, Computer Science, Fall 2020
+Output:
+ * Course should have completed: N/A
+ * Course should do :
+ Fall 2020        Winter 2021       Spring 2021
+ CS 100           CS 111            ENGR 180
+ CS 61            CS 130            ENGR 190
+ CS 120A          CS 165            CS 140
  > ## Phase II
  > In addition to completing the "Class Diagram" section below, you will need to 
  > * Set up your GitHub project board as a Kanban board for the project. It should have columns that map roughly to 
