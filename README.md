@@ -4,7 +4,7 @@
 # Course planner
  > Your author list below should include links to all members GitHub and should begin with a "\<" (remove existing author).
  
- > Authors: \<[Giang To](https://github.com/heerman7737) ,[Ishika Rakesh](https://github.com/rakishika)\>
+ > Authors: \<[Giang To](https://github.com/heerman7737) , [Ishika Rakesh](https://github.com/rakishika) , [Ryan Chandler](https://github.com/rrchandler)\>
  
  > You will be forming a group of **THREE** students and work on an interesting project that you will propose yourself (in this `README.md` document). You can pick any project that you'd like, but it needs ot implement three design patterns. Each of the members in a group is expected to work on at least one design pattern and its test cases. You can, of course, help each other, but it needs to be clear who will be responsible for which pattern and for which general project features.
  
@@ -38,12 +38,12 @@
 >Input: Grade Level, Major, Quarter. Ex: Sophomore, Computer Science, Fall 2020
 >
 >Output:
- * Course should have completed: N/A
- * Course should do :
- Fall 2020        Winter 2021       Spring 2021
- CS 100           CS 111            ENGR 180
- CS 61            CS 130            ENGR 190
- CS 120A          CS 165            CS 140
+> * Course should have completed: N/A
+> * Course should do :
+> Fall 2020        Winter 2021       Spring 2021
+> CS 100           CS 111            ENGR 180
+> CS 61            CS 130            ENGR 190
+> CS 120A          CS 165            CS 140
  > ## Phase II
  > In addition to completing the "Class Diagram" section below, you will need to 
  > * Set up your GitHub project board as a Kanban board for the project. It should have columns that map roughly to 
