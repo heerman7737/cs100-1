@@ -39,12 +39,13 @@
 >
 >Output:
 > * Course should have completed: N/A
+>
 > * Course should do :
- | Fall 2020   |    Winter 2021  |    Spring 2021  |
- | ----------- | --------------- | --------------- |
- | CS 100      |    CS 111       |    ENGR 180     |
- | CS 61       |    CS 130       |    ENGR 190     |
- | CS 120A     |    CS 165       |    CS 140       |
+>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
  > ## Phase II
  > In addition to completing the "Class Diagram" section below, you will need to 
  > * Set up your GitHub project board as a Kanban board for the project. It should have columns that map roughly to 
