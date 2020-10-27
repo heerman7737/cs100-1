@@ -29,10 +29,10 @@
 >**Motivation and Reason: In the current pandemic, it is hard and inconvenient to figure out what class you should take in order to graduate. That's the reason why we want to implement this project as a Course Planner**
 >
 >
->**Language use : C++ **
+>**Language use : C++**
 >
 >
->**Tools: Github, Google Test Frame, MongoDB  **
+>**Tools: Github, Google Test Frame, MongoDB**
 >
 >
 >Input: Grade Level, Major, Quarter. Ex: Sophomore, Computer Science, Fall 2020 
