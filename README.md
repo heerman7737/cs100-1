@@ -41,7 +41,7 @@
 > * Course should have completed: N/A
 > * Course should do :
 > | Fall 2020   |    Winter 2021  |    Spring 2021  |
-> |-------------|-----------------|---------------- |
+> | ----------- | --------------- | --------------- |
 > | CS 100      |    CS 111       |    ENGR 180     |
 > | CS 61       |    CS 130       |    ENGR 190     |
 > | CS 120A     |    CS 165       |    CS 140       |
