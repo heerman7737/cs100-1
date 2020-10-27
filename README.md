@@ -26,7 +26,7 @@
 **Motivation and Reason: In the current pandemic, it is hard and inconvenient to figure out what class you should take in order to graduate. That's the reason why we want to implement this project as a Course Planner**
 
 
-**Language use : C++**
+**Language : C++**
 
 
 **Tools: Github, Google Test Frame, MongoDB**
@@ -46,6 +46,14 @@ Output:
 | CS 120A  | CS 130  | CS 130 |
 | CS 61   | CS 170 | CS 141    |
 | ENGR 180 |        |          |
+
+**Design Pattern:**
+Strategy: We will use strategy pattern to design Course class whether the instance of the object is optional or mandatory. If the Course is optional, we will use Optional Strategy object. This helps us reduce the work in handling database as well as sorting through major requirement
+>
+Composite: Using Composite Design Pattern, we will design the Major class to have Course class which will have different variables and instance.
+>
+Observer: Using Observer Design Pattern, we will implement the process to accept user's inputs to get designated outputs.
+>
  > ## Phase II
  > In addition to completing the "Class Diagram" section below, you will need to 
  > * Set up your GitHub project board as a Kanban board for the project. It should have columns that map roughly to 
