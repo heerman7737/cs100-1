@@ -42,10 +42,12 @@
 >
 > * Course should do :
 >
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Fall 2020  | Winter 2021 | Spring 2021 |
+| ------------- | ------------- | ------------- |
+| CS 100  | CS 111  | CS 160  |
+| CS 120A  | CS 130  | CS 130 |
+| CS 61   | CS 170 | CS 141    |
+| ENGR 180 |        |          |
  > ## Phase II
  > In addition to completing the "Class Diagram" section below, you will need to 
  > * Set up your GitHub project board as a Kanban board for the project. It should have columns that map roughly to 
