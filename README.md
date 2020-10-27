@@ -37,6 +37,7 @@
 
 Input: Grade Level, Major, Quarter 
 > Sophomore, Computer Science, Fall 2020 
+>
 Output:
 > * Course should have completed: N/A
 >
