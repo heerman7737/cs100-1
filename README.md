@@ -22,16 +22,20 @@
  > * What are the three design patterns you will be using. For each design pattern you must:
  >   * Explain in 3 - 5 sentences why you picked this pattern and what feature you will implement with it
  > * This description should be in enough detail that the TA/instructor can determine the complexity of the project and if it is sufficient for the team members to complete in the time allotted. 
-
+>
+####Why is it important or interesting to you?
+>
 **Motivation and Reason: In the current pandemic, it is hard and inconvenient to figure out what class you should take in order to graduate. That's the reason why we want to implement this project as a Course Planner**
-
-
+>
+####What languages/tools/technologies do you plan to use?
+>
 **Language : C++**
-
+>
 
 **Tools: Github, Google Test Frame, MongoDB**
-
-
+>
+####What will be the input/output of your project?
+>
 Input: Grade Level, Major, Quarter 
 > Sophomore, Computer Science, Fall 2020 
 >
@@ -46,7 +50,9 @@ Output:
 | CS 120A  | CS 130  | CS 130 |
 | CS 61   | CS 170 | CS 141    |
 | ENGR 180 |        |          |
-
+>
+####What are the three design patterns you will be using
+>
 **Design Pattern:**
 >
 Strategy: We will use strategy pattern to design the Course class whether the instance of the object is optional or mandatory. If the Course is optional, we will use the Optional Strategy object. For example, we will be able to apply various strategies and sorting mechanisms for helping us sort through all of the courses stored into the database, in the construction of an algorithm that sorts based off of a courses prerequisites. This helps us reduce the work in handling database as well as shifting through the major requirements.
