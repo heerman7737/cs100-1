@@ -1,5 +1,4 @@
 # Course planner
- > Your author list below should include links to all members GitHub and should begin with a "\<" (remove existing author).
  
  > Authors: \<[Giang To](https://github.com/heerman7737) , [Ishika Rakesh](https://github.com/rakishika) , [Ryan Chandler](https://github.com/rrchandler)\>
  
@@ -14,27 +13,19 @@
  > * Each member of the group **must** be committing code regularly and make sure their code is correctly attributed to them. We will be checking attributions to determine if there was equal contribution to the project.
 
 ## Project Description
- > Your project description should summarize the project you are proposing. Be sure to include
- > * Why is it important or interesting to you?
- > * What languages/tools/technologies do you plan to use? (This list may change over the course of the project)
- >   * [toolname](link) - Short description
- > * What will be the input/output of your project?
- > * What are the three design patterns you will be using. For each design pattern you must:
- >   * Explain in 3 - 5 sentences why you picked this pattern and what feature you will implement with it
- > * This description should be in enough detail that the TA/instructor can determine the complexity of the project and if it is sufficient for the team members to complete in the time allotted. 
->
-####Why is it important or interesting to you?
+
+#### Why is it important or interesting to you?
 >
 **Motivation and Reason: In the current pandemic, it is hard and inconvenient to figure out what class you should take in order to graduate. That's the reason why we want to implement this project as a Course Planner**
 >
-####What languages/tools/technologies do you plan to use?
+#### What languages/tools/technologies do you plan to use?
 >
 **Language : C++**
 >
 
 **Tools: Github, Google Test Frame, MongoDB**
 >
-####What will be the input/output of your project?
+#### What will be the input/output of your project?
 >
 Input: Grade Level, Major, Quarter 
 > Sophomore, Computer Science, Fall 2020 
@@ -51,7 +42,7 @@ Output:
 | CS 61   | CS 170 | CS 141    |
 | ENGR 180 |        |          |
 >
-####What are the three design patterns you will be using
+#### What are the three design patterns you will be using
 >
 **Design Pattern:**
 >
