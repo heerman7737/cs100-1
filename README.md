@@ -49,11 +49,11 @@ Output:
 
 **Design Pattern:**
 >
-Strategy: We will use strategy pattern to design Course class whether the instance of the object is optional or mandatory. If the Course is optional, we will use Optional Strategy object. This helps us reduce the work in handling database as well as sorting through major requirement
+Strategy: We will use strategy pattern to design the Course class whether the instance of the object is optional or mandatory. If the Course is optional, we will use the Optional Strategy object. For example, we will be able to apply various strategies and sorting mechanisms for helping us sort through all of the courses stored into the database, in the construction of an algorithm that sorts based off of a courses prerequisites. This helps us reduce the work in handling database as well as shifting through the major requirements.
 >
-Composite: Using Composite Design Pattern, we will design the Major class to have Course class which will have different variables and instance.
+Composite: Using Composite Design Pattern, we will design the Major class to have Course class which will have different variables and instance. This will be useful for when we store several lists of courses, depending on the major inside of a tree. This means we will be able to use the Course class itself to help go through the  other objects within that same list its in. For example, when storing from the Database file, we will be able to compose a Course tree using the composite design pattern.
 >
-Observer: Using Observer Design Pattern, we will implement the process to accept user's inputs to get designated outputs.
+Interator: Using Observer Design Pattern, we will be able to go through the aforementioned tree list in order to get the courses that the user requests. The iterator will be useful because we will be able to choose any point within the list and go until the courses for that particular year are all gotten by the program. For example, when the user requests a year and major, we can start at the first course for that year, and go through the memory locations until we reach the number of courses that we end at. Using the iterator design pattern, we should be able to get the efficiency of making a course plan to at most O(n).
 >
  > ## Phase II
  > In addition to completing the "Class Diagram" section below, you will need to 
