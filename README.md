@@ -65,7 +65,9 @@ Interator: Using Observer Design Pattern, we will be able to go through the afor
 ## Class Diagram
  > Include a class diagram(s) for each design pattern and a description of the diagram(s). This should be in sufficient detail that another group could pick up the project this point and successfully complete it. Use proper OMT notation (as discussed in the course slides). You may combine multiple design patterns into one diagram if you'd like, but it needs to be clear which portion of the diagram represents which design pattern (either in the diagram or in the description). 
 
-
+![Compositepicture](https://user-images.githubusercontent.com/44251505/99289001-3d101d80-27f1-11eb-8208-269be034009f.PNG)
+![image](https://user-images.githubusercontent.com/44251505/99289032-48fbdf80-27f1-11eb-98bb-fd0589175aa3.png)
+![image](https://user-images.githubusercontent.com/44251505/99289082-57e29200-27f1-11eb-8282-89de72a59109.png)
 
 
  > ## Phase III
