@@ -67,11 +67,13 @@ Iterator: Using Iterator Design Pattern, we will be able to go through the afore
 
 ![Compositepicture](https://user-images.githubusercontent.com/44251505/99289001-3d101d80-27f1-11eb-8208-269be034009f.PNG)
 > Composite Pattern
+>
 ![image](https://user-images.githubusercontent.com/44251505/99289032-48fbdf80-27f1-11eb-98bb-fd0589175aa3.png)
 >Strategy Pattern
+>
 ![image](https://user-images.githubusercontent.com/44251505/99289082-57e29200-27f1-11eb-8282-89de72a59109.png)
 >Iterator Pattern
-
+>
  > ## Phase III
  > You will need to schedule a check-in with the TA (during lab hours or office hours). Your entire team must be present. 
  > * Before the meeting you should perform a sprint plan like you did in Phase II
