@@ -65,13 +65,13 @@ Iterator: Using Iterator Design Pattern, we will be able to go through the afore
 ## Class Diagram
  > Include a class diagram(s) for each design pattern and a description of the diagram(s). This should be in sufficient detail that another group could pick up the project this point and successfully complete it. Use proper OMT notation (as discussed in the course slides). You may combine multiple design patterns into one diagram if you'd like, but it needs to be clear which portion of the diagram represents which design pattern (either in the diagram or in the description). 
 
-![image](https://user-images.githubusercontent.com/44251505/99337630-81261100-2837-11eb-8b20-c8665b644e77.png)
+![image](https://user-images.githubusercontent.com/44251505/99339677-72415d80-283b-11eb-8346-90a35aaa09ae.png)
 > Composite Pattern
 >
-![image](https://user-images.githubusercontent.com/44251505/99337568-618ee880-2837-11eb-8dce-ef761de0b22f.png)
+![image](https://user-images.githubusercontent.com/44251505/99339692-78cfd500-283b-11eb-8bae-9488aacc18ad.png)
 >Strategy Pattern
 >
-![image](https://user-images.githubusercontent.com/44251505/99289082-57e29200-27f1-11eb-8282-89de72a59109.png)
+![image](https://user-images.githubusercontent.com/44251505/99339711-81c0a680-283b-11eb-9be9-c0db639d5815.png)
 >Iterator Pattern
 >
  > ## Phase III
