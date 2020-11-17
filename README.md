@@ -71,7 +71,7 @@ Iterator: Using Iterator Design Pattern, we will be able to go through the afore
 ![image](https://user-images.githubusercontent.com/44251505/99339692-78cfd500-283b-11eb-8bae-9488aacc18ad.png)
 >Strategy Pattern
 >
-![image](https://user-images.githubusercontent.com/44251505/99339711-81c0a680-283b-11eb-9be9-c0db639d5815.png)
+![image](https://user-images.githubusercontent.com/44251505/99344365-bedd6680-2844-11eb-9bb2-1f7bcc90823d.png)
 >Iterator Pattern
 >
  > ## Phase III
