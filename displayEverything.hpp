@@ -7,9 +7,7 @@ class DisplayEverything: public Display{
     public:
 	DisplayEverything(){};
 	void display(IndexItem* item){
-
-
-
+	    item->print();
 	}
 
 
