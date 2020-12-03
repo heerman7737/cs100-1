@@ -20,7 +20,9 @@ class Major : public IndexItem {
         }
 
         void print() {
-                cout << code << ": " << title << endl;
+                cout<<endl;
+		cout<<endl;
+
                 if(courses.size() == 0)
                         cerr<< "Error getting courses";
                 cout << "Required Courses:  " <<  endl;

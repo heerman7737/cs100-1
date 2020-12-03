@@ -1,14 +1,23 @@
 #ifndef _DISPLAYCOMPLETED_HPP_
 #define _DISPLAYCOMPLETED_HPP_
-
+#include <string>
+#include <iostream>
 #include "display.hpp"
-
+using namespace std;
 class DisplayCompleted: public Display{
+     private:
+	string gradeLevel;
+	string major;
      public:
-	DisplayCompleted(){};
+	DisplayCompleted(string gradeLevel,string major){
+		this->gradeLevel= gradeLevel;
+		this->major = major;
+	};
 	void display(IndexItem* item){
-// Require structure for  Major and Course in order to complete 		
-
+		cout<<"Courses you should have completed: "
+		if(gradeLevel.compare("Freshman")==0){
+			cout<<"N/A";
+		}	
 	}
 
 
