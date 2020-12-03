@@ -13,32 +13,39 @@ class Major : public IndexItem {
         vector<IndexItem*> courses;
 
     public:
-        Major(string name, string title) {
+	Major(){};
+        Major(string code, string title) {
                 this->code = code;
                 this->title = title;
         }
 
-        virtual void print() {
+        void print() {
                 cout << code << ": " << title << endl;
                 if(courses.size() == 0)
-                        return;
+                        cerr<< "Error getting courses";
                 cout << "Required Courses:  " <<  endl;
                 for(auto course : courses) {
                         course->print();
                 }
+		cout<<courses.size();
 
         }
-        void addCourse(IndexItem* item) {
+        void add(IndexItem* item) {
                	courses.push_back(item);
         }
-        void removeCourse(IndexItem* item) {
-                unsigned i;
-                for(unsigned i = 0; i < courses.size(); i++){
-                        if(item == courses.at(i))
-                                break;
-                }
-                courses.erase(courses.begin()+i);
+        /*void remove(IndexItem* item) {
+		int i =0;
+		bool found = false;
+		while(!found){
+			if(item->code==courses[i]->code){
+				found = true;
+				courses.erase(courses.begin()+i);
+			}
+			i++;
+		}
+		
         }
+	*/
 };
 
 #endif //__MAJOR_HPP__
