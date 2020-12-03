@@ -2,7 +2,8 @@
 #define _DISPLAYEVERYTHING_HPP_
 #include <string>
 #include "display.hpp"
-#include "collection.cpp"
+
+#include "factory.hpp"
 using namespace std;
 class DisplayEverything: public Display{
 	private:
@@ -16,15 +17,15 @@ class DisplayEverything: public Display{
 		void display(){
 		
 		
-			IndexItem* result = new Major();
-			cout<<major;	
-	    		if(major.compare("Computer Science")!=0){
-				
-				result = computer_science();
+			IndexItem* result;
+			Factory* factory = new Factory();
+	    		if(major.compare("Computer Science")==0){
+				result = new Major("CS","Computer Science");	
+				result = factory->parse("dummy1.txt");
 				result->print();
 			}
 			else{
-			cout<<"incorrect";
+				cout<<"incorrect";
 			}
 		}
 
