@@ -1,3 +1,0 @@
-/home/csmajs/gto001/project/CMakeFiles/rebuild_cache.dir
-/home/csmajs/gto001/project/CMakeFiles/edit_cache.dir
-/home/csmajs/gto001/project/CMakeFiles/check.dir
