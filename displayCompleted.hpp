@@ -17,6 +17,9 @@ class DisplayCompleted: public Display{
 		cout<<"Courses you should have completed: "
 		if(gradeLevel.compare("Freshman")==0){
 			cout<<"N/A";
+		}
+		else if(gradeLevel.compare("Sophomore")==0){
+				
 		}	
 	}
 

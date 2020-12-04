@@ -15,8 +15,9 @@ class DisplayEverything: public Display{
 			this->major = major;
 		};
 		void display(){
-		
-		
+			cout<<endl;
+			cout<<endl;	
+			cout<<"Display all major requirement:"<<endl<<endl;	
 			IndexItem* result;
 			Factory* factory = new Factory();
 	    		if(major.compare("Computer Science")==0){

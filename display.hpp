@@ -2,10 +2,9 @@
 #define _DISPLAY_HPP
 
 #include "indexitem.hpp"
-#include "major.hpp"
-#include "course.hpp"
-using namespace std;
 
+using namespace std;
+class IndexItem;
 class Display {
 protected:
 	

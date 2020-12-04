@@ -5,13 +5,15 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include "display.hpp"
 using namespace std;
+class Display;
 class Major : public IndexItem {
     private:
         string code;
         string title;
         vector<IndexItem*> courses;
-
+	Display* display_function;
     public:
 	Major(){};
         Major(string code, string title) {
@@ -20,12 +22,10 @@ class Major : public IndexItem {
         }
 
         void print() {
-                cout<<endl;
-		cout<<endl;
-
+                
                 if(courses.size() == 0)
                         cerr<< "Error getting courses";
-                cout << "Required Courses:  " <<  endl;
+         
                 for(auto course : courses) {
                         course->print();
                 }
@@ -35,6 +35,13 @@ class Major : public IndexItem {
         void add(IndexItem* item) {
                	courses.push_back(item);
         }
+	void set_display(Display* function){
+		this->display_function = function;	
+	}
+	Display* get_display(){
+		return display_function;
+	}
+	
         /*void remove(IndexItem* item) {
 		int i =0;
 		bool found = false;

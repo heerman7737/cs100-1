@@ -5,11 +5,13 @@
 #include <fstream>
 #include <iostream>
 #include "indexitem.hpp"
+#include "course.hpp"
+#include "major.hpp"
 using namespace std;
+
 class Factory{
 private:
-	IndexItem* cs;
-	// adding more major
+	
 
 public:
 	IndexItem* parse(string filename){
@@ -24,9 +26,9 @@ public:
 			
 			IndexItem* course = new Course(code,title);
 			major->add(course);
-			class_amount++;					
+								
 		}
-		cout<< class_amount;
+		
 		return major;
 		
 	};    
