@@ -3,12 +3,16 @@
 
 #include <string>
 #include <vector>
+#include "display.hpp"
+
 using namespace std;
+class Display;
 class IndexItem {
     public:
 	string code;
 	string title;
 	vector<IndexItem*> courses;
+	Display* display_function;
     public:
         /* Constructors */
         IndexItem(){};
@@ -17,6 +21,8 @@ class IndexItem {
         virtual void  print() = 0;
 	virtual void add(IndexItem* index) {};
 	virtual void remove(IndexItem* index){};
+	virtual void set_display(Display* function){};
+	virtual Display* get_display(){};
 };
 
 #endif //__INDEXITEM_HPP__
