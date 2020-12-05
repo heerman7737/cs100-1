@@ -71,8 +71,8 @@ Factory: Using Factory Design Pattern, we will be able to create majors and cour
 ![image](https://user-images.githubusercontent.com/44251505/99339692-78cfd500-283b-11eb-8bae-9488aacc18ad.png)
 >Strategy Pattern
 >
-![image](https://user-images.githubusercontent.com/44251505/99344365-bedd6680-2844-11eb-9bb2-1f7bcc90823d.png)
->Iterator Pattern
+!![Screenshot_2020-12-05 Untitled document - Google Docs(2)](https://user-images.githubusercontent.com/56704293/101266200-90470300-3701-11eb-9a87-5cd21269f3fb.png)
+>Factory Patter
 >
  > ## Phase III
  > You will need to schedule a check-in with the TA (during lab hours or office hours). Your entire team must be present. 
