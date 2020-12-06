@@ -59,6 +59,16 @@ class DisplayEverything: public Display{
 				result = new Major("ME","Mechanical Engineering");
 				result = factory->parse("MechanicalEngineering.txt");
 				result->print();
+			}
+			else if(major.compare("Environmental Engineering") == 0) {
+				result = new Major("ENEN","Environmental Engineering");
+				result = factory->parse("EnvironmentalEngineering.txt");
+				result->print();
+			}
+			else if(major.compare("Computer Science with Business Applications") == 0) {
+				result = new Major("CSBA", "Computer Science with Business Applications");
+				result = factory->parse("ComputerScienceBusinessApplications.txt");
+				result->print();
 			}			
 			else{
 				cout<<"incorrect";
