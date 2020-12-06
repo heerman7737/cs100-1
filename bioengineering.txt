@@ -1,0 +1,49 @@
+“Freshmen Seminar” BIEN 001
+“General Chemistry & Lab” CHEM 001A & CHEM 01LA
+“Beginning Composition” ENGL 001A
+“First Year Calculus” MATH 009A
+“Cell & Molecular Biology & Lab” BIOL 005A & BIOL 05LA
+“General Chemistry & Lab” CHEM 001B & CHEM 01LB
+“Intermediate Composition” ENGL 001B
+“First Year Calculus” MATH 009B
+“Organismal Biology” BIOL 005B
+“General Chemistry & Lab” CHEM 001C & CHEM 01LC
+“Applied Intermediate Composition” ENGL 001C 
+“First Year Calculus” MATH 009C
+“Overview of Bioengineering” BIEN 010 #
+“Differential Equations” MATH 046
+“Physics (Mechanics)” PHYS 040A
+Breadth course
+“Organic Chemistry” CHEM 008/08LA
+“C++ Programming I” CS 010A
+“Multivariable Calculus” MATH 010A
+“Physics (Heat/Waves/Sound)” PHYS 040B
+“Organic Chemistry” CHEM 008B/08LB
+“Engineering Circuit Analysis I & Lab” EE 001A & EE 01LA
+“Multivariable Calculus” MATH 010B
+“Physics (Electricity/Magnetism)” PHYS 040C
+“Quantitative Biochemistry” BIEN 101
+“Biomechanics of the Human Body” BIEN 110
+“Probability & Statitics for Engr” STAT 155
+Breadth course
+“Circulation Physiology” BIEN 105 #
+“Biotechnology & Molecular Engr.” BIEN 125
+“Biomaterials” BIEN/CEE 140A
+Technical Elective/ Breadth Course
+“Quantitative Physiology” BIEN 115
+“Biosystems & Signals Analysis” BIEN 120
+“Bioinstrumentation” BIEN 130
+“Bioinstrumentation Lab” BIEN 130L
+“Senior Design” BIEN 175A
+“Biophysics & Biothermodynamics” BIEN 135
+“Biotechnology Lab” BIEN 155
+Technical Elective
+“Senior Design” BIEN 175B
+Technical Elective
+Breadth course
+Breadth
+“Senior Design” BIEN 175C
+Technical Elective
+Breadth course
+Breadth course
+
