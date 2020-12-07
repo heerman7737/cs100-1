@@ -19,6 +19,9 @@ class Course : public IndexItem {
 		cout << code << ": " << title << endl;
 		
 	}
+	String stringify() {
+		return code + ": " + title + "\n";
+	}
 };
 
 #endif //_Course_HPP_

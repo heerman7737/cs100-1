@@ -10,15 +10,13 @@
 #include "factory.hpp"
 #include "displayEverything.hpp"
 TEST(Parse, CS) {
-	IndexItem* result = new Major("ENDS", "Data Science");
+	IndexItem* result = new Major("ENDS", "Computer Science");
 	Factory* factory = new Factory();
-	result = factory->parse("dummy1.txt");
-		
-	stringstream buffer;
-	streambuf* old = cout.rdbuf(buffer.rdbuf());
+	result = factory->parse("ComputerScience.txt");
+	
+	
 	result->print();
-	string output = buffer.str();
-	EXPECT_EQ(output, "WRONGANS");
+	EXPECT_EQ(output, );
 }
 
 #endif

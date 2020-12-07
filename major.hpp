@@ -35,6 +35,14 @@ class Major : public IndexItem {
         void add(IndexItem* item) {
                	courses.push_back(item);
         }
+	
+	String stringify() {
+		String ans = code + ":" + title + "\n";
+		for(auto course :courses) {
+			ans += course->stringify();
+		}
+		return ans;
+	}
 	void set_display(Display* function){
 		this->display_function = function;	
 	}
