@@ -1,0 +1,48 @@
+"Chemistry 1" CHEM001A 
+"English 1" ENGL001A
+"Calulus 1" MATH009A
+"Fund. of Materials Science & Engr" MSE001
+"Chemistry 2" CHEM001B 
+"English 2" ENGL001B
+"Calculus 1" MATH009B
+"Chemistry 3" CHEM001C 
+"Breadth" course
+"Calculus 1" MATH009C
+"Breadth" course
+"General Materials Lab" MSE002L
+"Organic Chemistry" CHEM008A 
+"Differential Equations" MATH046
+"Physics 1" PHYS040A
+"General Materials Lab" MSE003L
+"Multivariable Calculus" MATH010A
+"Statics" ME010
+"Physics 2" PHYS040B
+"General Materials Lab" MSE004L
+"Intro to Programming" CS009M
+"Engineering Circuit Analysis I" EE001A
+"Multivariable Calculus" MATH010B
+"Physics 3" PHYS040C
+"Electrical Properties of Materials" EE138
+"Intro to Materials Science & Engr" ME114
+"Probability & Statistics" STAT 155
+"Breadth" course
+"Biomaterial" BIEN140A
+"Engineering Thermodynamics" CHE100
+"Mechanics of Materials" ME110
+"Microstruct Transform in Materials" MSE134
+"Technical Communications" ENGR180W
+"Intro to Inorganic Mat Synthesis" MSE135
+"Nanostructure Characterization Lab" MSE160
+"Technical" elective
+"Mechanical Behavior of Materials" ME156
+"Analytical Materials Characterization" MSE161
+"Technical" elective
+"Breadth" course
+"Senior Design Project" MSE175A
+"Technical" elective
+"Technical" elective
+"Breadth" course
+"Senior Design Project" MSE175B
+"Technical" elective
+"Breadth" course
+"Breadth" course

@@ -1,0 +1,48 @@
+"Freshmen Seminar" BIEN001
+"General Chemistry & Lab" CHEM001A
+"Beginning Composition" ENGL001A
+"First Year Calculus" MATH009A
+"Cell & Molecular Biology & Lab" BIOL005A
+"General Chemistry & Lab" CHEM001B
+"Intermediate Composition" ENGL001B
+"First Year Calculus" MATH009B
+"Organismal Biology" BIOL005B
+"General Chemistry & Lab" CHEM001C
+"Applied Intermediate Composition" ENGL001C 
+"First Year Calculus" MATH009C
+"Overview of Bioengineering" BIEN010 
+"Differential Equations" MATH046
+"Physics (Mechanics)" PHYS040A
+"Breadth" course
+"Organic Chemistry" CHEM008
+"C++ Programming I" CS010A
+"Multivariable Calculus" MATH010A
+"Physics (Heat/Waves/Sound)" PHYS040B
+"Organic Chemistry" CHEM008B
+"Engineering Circuit Analysis I & Lab" EE001A
+"Multivariable Calculus" MATH010B
+"Physics (Electricity/Magnetism)" PHYS040C
+"Quantitative Biochemistry" BIEN101
+"Biomechanics of the Human Body" BIEN110
+"Probability & Statitics for Engr" STAT155
+"Breadth" course
+"Circulation Physiology" BIEN105 
+"Biotechnology & Molecular Engr." BIEN125
+"Biomaterials" BIEN140A
+"Technical Elective/ Breadth" Course
+"Quantitative Physiology" BIEN115
+"Biosystems & Signals Analysis" BIEN120
+"Bioinstrumentation" BIEN130
+"Bioinstrumentation Lab" BIEN130L
+"Senior Design" BIEN175A
+"Biophysics & Biothermodynamics" BIEN135
+"Biotechnology Lab" BIEN155
+"Technical" Elective
+"Senior Design" BIEN175B
+"Technical" Elective
+"Breadth" course
+"Breadth" course
+"Senior Design" BIEN175C
+"Technical" Elective
+"Breadth" course
+"Breadth" course

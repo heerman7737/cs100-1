@@ -1,0 +1,46 @@
+"English 1" ENGL001A
+"Calculus 1" MATH009A
+"Engineering Graphics & Design" ME009
+"English 2" ENGL001B
+"Calculus 2" MATH009B
+"Intro to Mechanical Engineering" ME018A
+"Physics 1" PHYS040A
+"English 3" ENGL001C 
+"Calculus 1" MATH009C
+"Intro to Engineering Computation" ME002
+"Physics 2" PHYS040B
+"Chemistry 1" CHEM001A
+"Multivariable Calculus" MATH010A
+"Physics 3" PHYS040C
+"Breadth" course
+"Chemistry 2" CHEM001B
+"Differential Equations" MATH046
+"Intro Engr. Comp. Modeling" ME018B
+"Statics" ME010
+"Engineering Circuit Analysis I" EE001A 
+"Multivariable Calculus" MATH010B
+"Introduction to Statistics" STAT100A
+"Cell & Molecular Bio" BIOL005A
+"Thermodynamics" ME100A
+"Mechanics of Materials" ME110
+"Intro to Materials Science & Engr" ME114
+"Breadth" course
+"Breadth" course
+"Fluid Mechanics" ME113
+"Mechancial Engr. Modeling & Analysis" ME118
+"Linear Systems and Control" ME120
+"Heat Transfer" ME116A
+"Experimental Techniques" ME170A
+"Machine Design" ME174
+"Dynamics" ME103
+"Transport Phenomena" ME135 
+"Experimental Techniques" ME170B
+"Professional Topics" ME175A
+"Breadth" course
+"Mechanical Engineering Design" ME175C 
+"Technical" elective
+"Technical" elective
+"Breadth" course
+"Technical" elective
+"Technical" elective
+"Breadth" course

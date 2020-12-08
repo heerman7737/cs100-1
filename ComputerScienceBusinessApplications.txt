@@ -1,0 +1,43 @@
+"C++ 1" CS010A
+"English 1" ENGL001A
+"Professional Dev. & Mentoring" ENGR001M
+"Calculus 1" MATH009A
+"C++ 2" CS010B 
+"English 2" ENGL001B
+"Calculus 1" MATH009B 
+"Discrete Structures" CS011
+"C++ 3" CS010C
+"Calculus 1" MATH009C
+"Breadth" course
+"Breadth" course
+"Financial Accounting & Reporting" BUS020 
+"Machine Org. & Assembly Lang. Prog" CS061
+"Software Construction" CS100
+"Macroeconomics" ECON002 
+"Multivariable Calculus" MATH010A
+"Discrete Structures" CS111
+"Probability & Statiscis for Engr" STAT155
+"Breadth" course
+"Microeconomics" ECON003
+"Linear Algebra" MATH031
+"Breadth" course
+"Breadth" course
+"Marketing & Distribution Mgmt" BUS103
+"Interm. Data Structures & Algorithms" CS141
+"Breadth" course
+"Breadth" course
+"Decision Analysis & Mgmt Science" BUS104
+"Intro to Financial Mgmt" BUS106
+"CS Technical" elective
+"Professional Dev. & Mentoring" ENGR01M
+"Design of Operating Systems" CS153
+"Technical Communications" ENGR180W
+"Soc. of Economic Organizations" SOC150
+"CS Technical" elective
+"BUS Technical" elective
+"CS Technical" elective
+"BUS Technical" elective
+"Computer Security" CS165
+"CS Technical" elective
+"BUS Technical" elective
+"BUS Technical" elective

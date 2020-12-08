@@ -1,0 +1,48 @@
+"Engineering 1" CEE010
+"Chemistry 1" CHEM001A 
+"English 1" ENGL001A
+"Calculus 1" MATH009A
+"Chemistry 2" CHEM001B 
+"English 2" ENGL001B
+"Calculus 1" MATH009B
+"Physics 1" PHYS040A
+"Chemistry 3" CHEM001C 
+"English 3" ENGL001C
+"Calculus 1" MATH009C
+"Physics 2" PHYS040B
+"Chemical Process Analysis" CHE110A
+"Organic Chemistry" CHEM008A
+"Differential Equations" MATH046
+"Physics 3" PHYS040C
+"Chemical Process Analysis" CHE110B
+"Organic chemistry" CHEM008B
+"Multivariable Calculus" MATH010A
+"Engineering Thermodynamics" CHE100
+"Multivariable Calculus" MATH010B
+"Organic Chemistry" CHEM008C 
+"C++ 1" CS010A
+"Breadth" course
+"Biology 5" BIOL005A 
+"Applied Fluid Mechanics" CHE114
+"Engineering Modeling & Analysis" ENGR118
+"Breadth" course
+"Mass Transfer" CHE120
+"Technical" elective
+"Breadth" course
+"Breadth" course
+"Heat Transfer" CHE116
+"Advanced Engr. Thermodynamics" CHE130
+"Chem. & Envir. Engineering Lab" CHE160A
+"Chemical Engineering Kinetics" CHE122
+"Separation Processes" CHE117
+"Chemical Engineering Lab" CHE160B
+"Technical" elective
+"Professional Development for Engr" CEE158
+"Process Dynamics and Control" CHE118
+"Chemical Engineering Lab" CHE160C
+"Chemical Process Design" CHE175A
+"Technical" elective
+"Chemical Process Design" CHE175B
+"Technical" Elective
+"Breadth" course
+"Breadth" course

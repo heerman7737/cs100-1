@@ -2,12 +2,17 @@
 #define _DISPLAY_HPP
 
 #include "indexitem.hpp"
+
+using namespace std;
 class IndexItem;
 class Display {
+protected:
+	
      public:
 	Display(){};
+	
 
-	virtual void display(IndexItem* item) = 0;
+	virtual void display() = 0;
 
 };
 

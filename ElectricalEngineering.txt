@@ -1,0 +1,46 @@
+"C++ 1" CS010A
+"Intro to Electrical Engineering" EE010	
+"English 1" ENGL001A
+"Calculus 1" MATH009A 
+"C++ 2" CS010B
+"English 2" ENGL001B
+"Calculus 1" MATH009B
+"Physics 1" PHYS040A
+"Machine Org. & Assembly Lang. Prog" CS061
+"Linear Methodsfor Engr. Analysis" EE020
+"Calculus 1" MATH009C
+"Physics 2" PHYS040B
+"Engineering Circuit Analysis I" EE001A
+"Differential Equations" MATH046
+"Physics 3" PHYS040C
+"Chemistry 1" CHEM001A 
+"Engineering Circuit Analysis II" EE001B
+"Logic Design" EE120A
+"Multivariable Calculus" MATH010A
+"Breadth" course
+"Electronic Circuits" EE100A
+"Embedded Systems" CS120B
+"Multivariable Calculus" MATH010B
+"Breadth" course
+"Electronic Circuits" EE100B
+"Signals & Systems" EE110A
+"Engineering Electromagnetics" EE116
+"Breadth" course
+"Model. & Simulation of Dynamic Sys" EE105
+"Signals & Systems" EE110B
+"Prob., Random Variables & Processes" EE114
+"Breadth" course
+"(Lead)" EE128 
+"Automatic Control" EE132 
+"Solid-State Electronics" EE133 
+"Digital Signal Processing" EE141
+"Senior Design Project" EE175A
+"Technical" elective
+"Breadth" course
+"Breadth" course
+"Senior Design Project" EE175B
+"Technical" elective
+"Technical" elective
+"Technical Communications" ENGR181W
+"Breadth" course
+"Technical" elective

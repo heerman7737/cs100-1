@@ -1,0 +1,44 @@
+"C++ 1" CS010A
+"English 1" ENGL001A
+"Engineering 1" ENGR001I
+"Calculus 1" MATH009A
+"C++ 2" CS010B 
+"English 2" ENGL001B
+"Calculus 1" MATH009B 
+"Discrete structures" CS011
+"C++ 3" CS010C
+"Calculus 1" MATH009C
+"Breadth" course
+"Machine Org. & Assembly Lang. Prog." CS061
+"Software Construction" CS100
+"Physics 1" PHYS040A
+"Breadth" course
+"Logic design" EE120A
+"Discrete structures" CS111
+"Physics 2" PHYS040B
+"Breadth" course
+"Embedded Systems" CS120B
+"Physics 3" PHYS040C
+"Breadth" course
+"Data Structures & Algorithms" CS141
+"Design & Architec. of Comp. Sys." CS161
+"Multivariable Calculus" MATH010A
+"Breadth" course
+"Theory of Automata & Formal Language" CS150
+"Applied Linear Algebra" MATH031 
+"Technical" elective
+"Engineering 2" ENGR101I
+"Engineering elective" EE01A
+"Technical Communications" ENGR180W
+"Design of Operating Systems" CS153
+"Proj Seq in CSE" CS178A
+"Technical" elective
+"Probability & Statistics" STAT155
+"Breadth" course
+"Proj Seq in CSE" CS178B
+"Technical" elective
+"Compiler Design" CS152
+"Breadth" course
+"Technical" elective
+"Technical" elective
+"Technical" elective

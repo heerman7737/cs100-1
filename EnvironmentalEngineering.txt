@@ -1,0 +1,48 @@
+"Intro to Chem. & Envir. Engineering" CEE010
+"Chemistry 1" CHEM001A 
+"English 1" ENGL001A
+"Calculus 1" MATH009A
+"Chemistry 2" CHEM001B 
+"English 2" ENGL001B
+"Calculus 1" MATH009B
+"Physics 1" PHYS040A
+"Chemistry 3" CHEM001C 
+"English 3" ENGL001C 
+"Calculus 1" MATH009C
+"Physics 2" PHYS040B
+"Organic Chemistry" CHEM008A 
+"Fundamentals of Environmental Engr." ENVE171
+"Differential Equations" MATH046
+"Physics 3" PHYS040C
+"Engineering Thermodynamics" CHE100
+"Organic Chemistry" CHEM008B
+"Multivariable Calculus" MATH010A
+"Breadth" course
+"C++ 1" CS010A
+"Advanced Engr. Thermodynamics" ENVE130
+"Multivariable Calculus" MATH010B
+"Statics" ME010
+"Cell & Molecular Biology" BIOL005A 
+"Applied Fluid Mechanics" CHE114
+"Engineering Modeling & Analysis" ENGR118
+"Breadth" course
+"Mass Transfer" CHE120
+"Fund. of Air Pollution Engineering" ENVE133
+"Water Quality Engineering" ENVE142
+"Breadth" course
+"Water Quality Systems Design" ENVE146
+"Chem. & Envir. Engineering" ENVE160A
+"Technical" elective
+"Breadth" course
+"Intro to Soil Science" ENSC100
+"Unit Operations and Processes" ENVE120
+"Environmental Engineering Lab" ENVE160B
+"Professional Development for Engr" CEE158
+"Fate & Trans. of Envir. Contaminants" ENVE135
+"Environmental Engineering Lab" ENVE160C 
+"Senior Design Project" ENVE175A
+"Breadth" course
+"Senior Design Project" ENVE175B
+"Technical" elective
+"Technical" elective
+"Breadth" course

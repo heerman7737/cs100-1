@@ -1,0 +1,40 @@
+"C++ 1" CS010A
+"English 1" ENGL001A
+"Calculus 1" MATH009A
+"C++ 2" CS010B 
+"English 2" ENGL001B
+"Calculus 1" MATH009B
+"Breadth" course
+"C++ 3" CS010C
+"Calculus 1" MATH009C
+"Breadth" course
+"Software Construction" CS100
+"Linear Algebra" MATH031
+"Introduction to Statistics" STAT100A
+"Breadth" course
+"Multivariable Calculus" MATH010A
+"Discrete Structures" CS011
+"Introduction to Statistics" STAT100B
+"Breadth" course
+"Data Analysis Methods" CS105
+"Discrete Structures" CS111
+"Breadth" course
+"Statistics for Data Science I" STAT156A
+"Database Management or BIG Data" CS166 
+"Intro Stat Computing" STAT147
+"Breadth" course
+"Statistics for Data Science II" STAT156B
+"Interm. Data Structures & Algorithms" CS141
+"Technology, Policy, and Ethics" ENGR170
+"Breadth" course
+"Intro to Data Science" STAT167 
+"Technical" elective
+"Breadth" course
+"Regression Analysis" STAT170A
+"Technical" elective
+"Application Course" sequence
+"Technical Communications" ENGR180W
+"Design of Experiments" STAT170B
+"Technical" elective
+"Stat Consulting or Project in CS" STAT183
+"Technical" elective

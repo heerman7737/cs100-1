@@ -50,7 +50,7 @@ Strategy: We will use strategy pattern to design the Course class whether the in
 >
 Composite: Using Composite Design Pattern, we will design the Major class to have Course class which will have different variables and instance. This will be useful for when we store several lists of courses, depending on the major inside of a tree. This means we will be able to use the Course class itself to help go through the  other objects within that same list its in. For example, when storing from the Database file, we will be able to compose a Course tree using the composite design pattern.
 >
-Iterator: Using Iterator Design Pattern, we will be able to go through the aforementioned tree list in order to get the courses that the user requests. The iterator will be useful because we will be able to choose any point within the list and go until the courses for that particular year are all gotten by the program. For example, when the user requests a year and major, we can start at the first course for that year, and go through the memory locations until we reach the number of courses that we end at. Using the iterator design pattern, we should be able to get the efficiency of making a course plan to at most O(n).
+Factory: Using Factory Design Pattern, we will be able to create majors and courses without the client choosing thse courses and majors from the text file themsleves. This will be useful, as it is the backbone of our program by assembling the majors and its courses. For example, all the user has top input is the name of the major, and the facotry pattern will assemble the major including all of the courses. It will do so by parsing through a corresponding text file that will contain all of the major information. 
 >
  > ## Phase II
  > In addition to completing the "Class Diagram" section below, you will need to 
@@ -71,8 +71,8 @@ Iterator: Using Iterator Design Pattern, we will be able to go through the afore
 ![image](https://user-images.githubusercontent.com/44251505/99339692-78cfd500-283b-11eb-8bae-9488aacc18ad.png)
 >Strategy Pattern
 >
-![image](https://user-images.githubusercontent.com/44251505/99344365-bedd6680-2844-11eb-9bb2-1f7bcc90823d.png)
->Iterator Pattern
+!![Screenshot_2020-12-05 Untitled document - Google Docs(2)](https://user-images.githubusercontent.com/56704293/101266200-90470300-3701-11eb-9a87-5cd21269f3fb.png)
+>Factory Patter
 >
  > ## Phase III
  > You will need to schedule a check-in with the TA (during lab hours or office hours). Your entire team must be present. 
