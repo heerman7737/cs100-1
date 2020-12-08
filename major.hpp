@@ -36,8 +36,8 @@ class Major : public IndexItem {
                	courses.push_back(item);
         }
 	
-	String stringify() {
-		String ans = code + ":" + title + "\n";
+	string stringify() {
+		string ans = "";
 		for(auto course :courses) {
 			ans += course->stringify();
 		}

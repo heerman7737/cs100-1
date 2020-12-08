@@ -19,8 +19,8 @@ class Course : public IndexItem {
 		cout << code << ": " << title << endl;
 		
 	}
-	String stringify() {
-		return code + ": " + title + "\n";
+	string stringify() {
+		return code + ": " + title + "//";
 	}
 };
 
