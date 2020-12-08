@@ -3,6 +3,7 @@
 #include <string>
 #include <iostream>
 #include "display.hpp"
+#include "factory.hpp"
 using namespace std;
 class DisplayCompleted: public Display{
      private:
@@ -13,13 +14,85 @@ class DisplayCompleted: public Display{
 		this->gradeLevel= gradeLevel;
 		this->major = major;
 	};
-	void display(IndexItem* item){
-		cout<<"Courses you should have completed: "
+	
+	void display(){
+		cout<<endl;
+		IndexItem* result;
+		Factory* factory = new Factory();
+			 if(major.compare("Computer Science")==0){
+                                result = new Major("ENCS","Computer Science");
+                                result = factory->parse("ComputerScience.txt");
+                             
+                        }
+                        else if(major.compare("Computer Engineering") == 0) {
+                                result = new Major("ENCE","Computer Engineering");
+                                result = factory->parse("ComputerEngineering.txt");
+                            
+                        }
+                        else if(major.compare("Bioengineering") == 0) {
+                                result = new Major("BIEN","Bioengineering");
+                                result = factory->parse("Bioengineering.txt");
+                           
+                        }
+                        else if(major.compare("Chemical Engineering") == 0) {
+                                result = new Major("CHEN","Chemical Engineering");
+                                result = factory->parse("ChemicalEngineering.txt");
+                              
+                        }
+                        else if(major.compare("Data Science") == 0) {
+                                result = new Major("ENDS","Data Science");
+                                result = factory->parse("DataScience.txt");
+                             
+                        }
+                       else if(major.compare("Electrical Engineering") == 0) {
+                                result = new Major("EE","Electrical Engineering");
+                                result = factory->parse("ElectricalEngineering.txt");
+                             
+                        }
+                        else if(major.compare("Materials Science") == 0) {
+                                result = new Major("MS","Materials Science");
+                                result = factory->parse("MaterialScience.txt");
+                           
+                        }
+                        else if(major.compare("Mechanical Engineering") == 0) {
+                                result = new Major("ME","Mechanical Engineering");
+                                result = factory->parse("MechanicalEngineering.txt");
+                             
+                        }
+                        else if(major.compare("Environmental Engineering") == 0) {
+                                result = new Major("ENEN","Environmental Engineering");
+                                result = factory->parse("EnvironmentalEngineering.txt");
+                             
+                        }
+                        else if(major.compare("Computer Science with Business Applications") == 0) {
+                                result = new Major("CSBA", "Computer Science with Business Applications");
+                                result = factory->parse("ComputerScienceBusinessApplications.txt");
+                               
+                        }
+                        else{
+                                cout<<"incorrect";
+                        }
+
+
+		cout<<"Courses you should have completed: "<<endl;
 		if(gradeLevel.compare("Freshman")==0){
-			cout<<"N/A";
+			cout<<"N/A"<<endl;
 		}
 		else if(gradeLevel.compare("Sophomore")==0){
-				
+			factory->get_year1();					
+		}
+		else if(gradeLevel.compare("Junior")==0){
+			factory->get_year1();
+			factory->get_year2();
+		}
+		else if(gradeLevel.compare("Senior")==0){
+			factory->get_year1();
+			factory->get_year2();
+			factory->get_year3();
+		}
+		else{
+
+			cout<<"Incorrect grade level";
 		}	
 	}
 
