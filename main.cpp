@@ -6,7 +6,8 @@
 #include "display.hpp"
 #include "displayEverything.hpp"
 #include "factory.hpp"
-
+#include "displayCompleted.hpp"
+#include "displayNeeded.hpp"
 using namespace std;
 
 int main(){
@@ -27,12 +28,18 @@ int main(){
 	IndexItem* result = new Major();
 	result->set_display(new DisplayEverything(gradeLevel,major));
 	
-	result->get_display()->display();		
-	//Display* displayAll = new DisplayEverything(gradeLevel,major);
-	//displayAll->display();
-	//Display* displayCompleted = new DisplayCompleted(gradeLevel,major);
-	//displayCompleted->display();
-	//Display* displayNeeded = new displayNeeded(gradeLevel,major);	
+
+	result->get_display()->display();
+	
+	result->set_display(new DisplayCompleted(gradeLevel,major));
+
+	result->get_display()->display();	
+	
+	result->set_display(new DisplayNeeded(gradeLevel,major));
+	
+	result->get_display()->display();
+
 	return 0;
+
 
 }
