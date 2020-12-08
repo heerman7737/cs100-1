@@ -72,6 +72,7 @@ class DisplayCompleted: public Display{
                         else{
                                 cout<<"incorrect";
                         }
+                cout<<"----------------------------------------------------------------------------"<<endl<<endl;
 
 
 		cout<<"Courses you should have completed: "<<endl;
