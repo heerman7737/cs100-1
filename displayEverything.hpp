@@ -22,7 +22,7 @@ class DisplayEverything: public Display{
 			Factory* factory = new Factory();
 	    		if(major.compare("Computer Science")==0){
 				result = new Major("ENCS","Computer Science");	
-				result = factory->parse("dummy1.txt");
+				result = factory->parse("ComputerScience.txt");
 				result->print();
 			}
 			else if(major.compare("Computer Engineering") == 0) {
@@ -55,7 +55,7 @@ class DisplayEverything: public Display{
 				result = factory->parse("MaterialScience.txt");
 				result->print();
 			}
-			else if(major.comapre("Mechanical Engineering") == 0) {
+			else if(major.compare("Mechanical Engineering") == 0) {
 				result = new Major("ME","Mechanical Engineering");
 				result = factory->parse("MechanicalEngineering.txt");
 				result->print();

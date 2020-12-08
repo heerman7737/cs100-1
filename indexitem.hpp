@@ -19,6 +19,7 @@ class IndexItem {
 	IndexItem(string code,string title){};
         /* Pure Virtual Functions */
         virtual void  print() = 0;
+	virtual string stringify() = 0;
 	virtual void add(IndexItem* index) {};
 	virtual void remove(IndexItem* index){};
 	virtual void set_display(Display* function){};

@@ -27,8 +27,7 @@ int main(){
 	IndexItem* result = new Major();
 	result->set_display(new DisplayEverything(gradeLevel,major));
 	
-	result->get_display()->display();
-		
+	result->get_display()->display();		
 	//Display* displayAll = new DisplayEverything(gradeLevel,major);
 	//displayAll->display();
 	//Display* displayCompleted = new DisplayCompleted(gradeLevel,major);
